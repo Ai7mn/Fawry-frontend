@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807422425553",
+    "firebase_url": "https://fawry-fef9f.firebaseio.com",
+    "project_id": "fawry-fef9f",
+    "storage_bucket": "fawry-fef9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807422425553:android:b0987f8ec9e1198ba388f0",
+        "android_client_info": {
+          "package_name": "com.example.fawry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807422425553-872egqfvqbahr34uc4hn360s6fd0ukku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsx6L4LhbnOGZdrphP-i4w91nMCRptkV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807422425553-872egqfvqbahr34uc4hn360s6fd0ukku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807422425553-dt4eevged60405a0i66scdlk67750kfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fawry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
